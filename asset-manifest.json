@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stealedge-avionics/static/css/main.f8013abd.css",
+    "main.js": "/stealedge-avionics/static/js/main.9635edd6.js",
+    "static/js/755.43286934.chunk.js": "/stealedge-avionics/static/js/755.43286934.chunk.js",
+    "static/media/useen.png": "/stealedge-avionics/static/media/useen.47558ac4ad07a71511d0.png",
+    "static/media/upar.png": "/stealedge-avionics/static/media/upar.37b968a50eb5e5054539.png",
+    "static/media/umchd.png": "/stealedge-avionics/static/media/umchd.a6bb8e0d580b3100f3c9.png",
+    "static/media/TagC.png": "/stealedge-avionics/static/media/TagC.8297f71b1368c65008c6.png",
+    "static/media/guide.jpg": "/stealedge-avionics/static/media/guide.2d930101faca275bac29.jpg",
+    "static/media/msme.jpeg": "/stealedge-avionics/static/media/msme.f0b4df842ac46decc674.jpeg",
+    "static/media/startupind.png": "/stealedge-avionics/static/media/startupind.1168ad7cf1759afbdbc1.png",
+    "static/media/Logo.jpg": "/stealedge-avionics/static/media/Logo.41a9bb00eba3b153a558.jpg",
+    "static/media/plogo.jpg": "/stealedge-avionics/static/media/plogo.3610261ae82aaee1756f.jpg",
+    "index.html": "/stealedge-avionics/index.html",
+    "main.f8013abd.css.map": "/stealedge-avionics/static/css/main.f8013abd.css.map",
+    "main.9635edd6.js.map": "/stealedge-avionics/static/js/main.9635edd6.js.map",
+    "755.43286934.chunk.js.map": "/stealedge-avionics/static/js/755.43286934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8013abd.css",
+    "static/js/main.9635edd6.js"
+  ]
+}
