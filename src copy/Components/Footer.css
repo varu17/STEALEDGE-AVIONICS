@@ -1,0 +1,49 @@
+.footer{
+    background-color: rgb(105, 109, 110);
+    color: aliceblue;
+    display: flex;
+    gap: 5%;
+    padding: 3%;
+    font-family: 'Chakra Petch', sans-serif;
+    position:static;
+
+}
+
+.SeaF{
+    background-color: rgb(33, 40, 45);
+    padding: 1.5%;
+    margin-bottom: 0%;
+    font-family: 'EB Garamond', serif;
+    color: aliceblue;
+}
+
+.imageLogo{
+    background-color: black;
+    height: 4%;
+    width: 3%;
+    border-radius: 20%;
+    margin: .9%;
+}
+
+.imageLogo:hover{
+    background-color: black;
+    height: 4.2%;
+    width: 3.3%;
+    border-radius: 25%;
+    margin: 1%;
+    transition-duration: .5s;
+}
+
+.address{
+    display: flex;
+    gap: 7%
+}
+
+add-details{
+    display: flex;
+}
+
+
+.address{
+    display: flex;
+}
