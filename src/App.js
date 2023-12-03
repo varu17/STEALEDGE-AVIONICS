@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./Components/Header";
+import Tag from "./Components/TagLine";
+import Footer from "./Components/Footer";
+import VMission from "./Components/VMission";
+import Vision from "./Components/Vision";
+import Agenda from "./Components/Agenda";
+import Team from "./Components/People";
+import Msmeimgs from "./Components/Msmeimgs";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ overflowY: "auto", height: "100vh" }}>
+      <Header />
+      <Tag />
+      <Vision />
+      <VMission />
+      <Agenda />
+      <Team />
+      <Msmeimgs />
+      <Footer />
     </div>
   );
 }

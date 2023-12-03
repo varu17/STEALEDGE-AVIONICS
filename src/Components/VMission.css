@@ -1,0 +1,24 @@
+.vision{
+    display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  top: -7%;
+
+}
+
+.vcontainer{
+ 
+    color: rgb(239, 234, 224);
+    backdrop-filter: blur(4px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 65vw;
+    border-radius: 3%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    padding: 3% ;
+
+}
